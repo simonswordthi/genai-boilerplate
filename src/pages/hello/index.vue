@@ -1,6 +1,7 @@
 <template>
-  <ChatGemini />
+  <HelloWorld />
 </template>
 
 <script lang="ts" setup>
+  //
 </script>
